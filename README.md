@@ -37,10 +37,6 @@ This model learns to associate the reduced features with specific music genres.
 4. Model Evaluation: Evaluate the model’s accuracy to see how well it can predict genres in new, unseen data.
 
 
-
-
----
-
 Dependencies
 
 To run this project, you’ll need the following libraries:
